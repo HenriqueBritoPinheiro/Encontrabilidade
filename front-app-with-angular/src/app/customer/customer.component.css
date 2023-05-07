@@ -1,0 +1,18 @@
+.persona{
+    width: 100%;
+}
+
+.corLabel{
+    color: #999999;
+}
+
+.full-width{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+    
+}
+
+#persona{
+    background-color: #DDD;
+}
